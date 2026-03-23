@@ -68,21 +68,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://github.com/shashank858055/shashank858055/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shashank858055&icon=5&color=12" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 💡 I enjoy optimizing systems more than writing them from scratch  
 🔥 Debugging feels like solving a mystery  
